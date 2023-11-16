@@ -10,7 +10,7 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : Aᴜᴛᴏ Fʟɪᴛᴇʀ Bᴏᴛ</b>"""
+‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://t.me/Aman_Vishwakarma26'>Aᴍᴀᴍ-Vɪsʜᴡᴀᴋᴀʀᴍᴀ</a>
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Aman_Vishwakarma26'>Aᴍᴀᴍ-Vɪsʜᴡᴀᴋᴀʀᴍᴀ</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
