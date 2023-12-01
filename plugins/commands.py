@@ -158,7 +158,9 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
+                                InlineKeyboardButton('Youtube Channel Subcribe', url='https://youtube.com/@xyzdabbangboyz652?si=zNoIE6MtWLGG_pUl') #Don't change anything without contacting me @LazyDeveloperr
+                            ],[
+                                InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}')
                             ]
                         ]
                     )
@@ -174,7 +176,9 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          
-                            [ 
+                            [
+                            InlineKeyboardButton('Youtube Channel Subcribe', url='https://youtube.com/@xyzdabbangboyz652?si=zNoIE6MtWLGG_pUl')
+                            ],[
                             InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
                             ]
                         ]
@@ -331,6 +335,8 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
+                         InlineKeyboardButton('Youtube Channel Subcribe', url='https://youtube.com/@xyzdabbangboyz652?si=zNoIE6MtWLGG_pUl')
+                     ],[
                         InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
 
                      ]
@@ -393,6 +399,8 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
+                         InlineKeyboardButton('Youtube Channel Subcribe', url='https://youtube.com/@xyzdabbangboyz652?si=zNoIE6MtWLGG_pUl')
+                     ],[
                         InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
                      ]
                     ]
@@ -452,6 +460,8 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
+                 InlineKeyboardButton('Youtube Channel Subcribe', url='https://youtube.com/@xyzdabbangboyz652?si=zNoIE6MtWLGG_pUl')
+             ],[
               InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}')
              ]
             ]
