@@ -655,15 +655,9 @@ Also your tutorial will be Added Your Group..."""
 
 
     DEVELOPER_TXT = """
-special Thanks To ❤️ Developers -
+✯Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/its_me_TG'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
-
--Dev 2 <a href='https://t.me/Kgashok04'>ASHOK</a>
-
--Dev 3 <a href='https://t.me/creatorbeatz'>Jᴏᴇʟ </> TɢX</a>
-
-- Dev 4 <a href='https://t.me/TeamEvamaria'>TEAM EVAMARIA</a>
+-[Owner of this bot ]<a href='https://t.me/EK4MPREETSINGH'>✫Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ✫</a>
 """
 
 
